@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidNotifications</string>
+    <string name="btnsing">SIGN UP</string>
+    <string name="btnreg">REGISTER</string>
+    <string name="btncancel">CANCEL</string>
+    <string name="txtrepass">Re-type password</string>
+    <string name="txtpass">Password</string>
+    <string name="txtte">Telephone</string>
+    <string name="txtemail">Email</string>
+    <string name="txtname">Name</string>
+</resources>
