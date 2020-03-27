@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
-
+    /*sfr*/
     public void SIGNUP(View view) {
 
         EditText text = (EditText) findViewById(R.id.id_name);
